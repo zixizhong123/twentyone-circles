@@ -1,1 +1,3 @@
 # twentyone-circles
+
+This program is a JavaFX application that presents 20 circles, each with a random radius and location. If a circle does not overlap any other circle, fill in the circle with black. Fill in overlapping circles with a translucent blue. Use an array to store the circle objects, and check each new circle to see if it overlaps any previous created circle. Two circles overlap is the distance between their center points is less than the sum of their radii.
